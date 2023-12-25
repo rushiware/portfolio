@@ -38,7 +38,7 @@ nav i {
 }
 
 main {
-  background: url(/assets/img/bg.png) repeat;
+  background: url(assets/img/bg.png) repeat;
   padding-left: 190px;
 }
 
@@ -170,7 +170,7 @@ h3 {
 }
 
 #intro.section {
-  background: url(/assets/img/homepage.jpg) no-repeat top center/cover;
+  background: url(assets/img/homepage.jpg) no-repeat top center/cover;
   position: relative;
 }
 
